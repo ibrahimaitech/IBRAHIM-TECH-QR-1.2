@@ -14,21 +14,8 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "┏━━❀ *_WELCOME_* *_GEE_* 🙏 ❀───╮
-┃  YOU HAVE SUCCESSFULLY SCANNED YOUR SESSION DEPLOY TO ENJOY IBRAHIM'S COMMANDS
-┃ 
-┃ ⛷️◌· ͟͞꒰➳   𝗧𝗛𝗜𝗦 𝗜𝗦.                       
-     IBRAHIM-TECH
-┃ 
-┃ 👨🏻‍💻◌· ͟͞꒰➳  MADE BY                      
-        IBRAHIM  ADAMS
-┃ 
-┃ ◌· ͟  Owner number : 
-           https://wa.me/message/74F2PC4JA4F3P1
- [
-┃  💁🏻‍♂️◌· ͟͞꒰➳ ᴊᴏɪɴ my whatsapp group🪀👇🏻
-┃     https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj
-┗━━━━━━━━━━━",
+        "value": "╔════◇║ *『 SUCCESSFULLY SCANNED YOUR SESSION 』*║ _You Have Complete the First Step to Deploy a Whatsapp Bot._╚════════════════════════╝╔═════◇║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』║❒ *https://wa.me/message/74F2PC4JA4F3P1_║❒ *Repo:* _https://github.com/ibrahimaitech/IBRAHIM-AI-10.10_║❒ *WaGroup:* _https://chat.whatsapp.com/IccHkUBaNiaDNGpEKeiKmz_╚════════════════════════╝",
+        "required": false ",
       } "required": false
     }   
 
