@@ -13,16 +13,21 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-╔════◇
-║ *『 WOW YOU CHOOSEN GIFTED-MD 』*
-║ _You Have Completed the First Step to Deploy Whatsapp Bot._
-╚════════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *Ytube:* _youtube.com/@giftedtechnexus_
-║ *Owner:* _https://wa.me/254728782591_
-║ 
-╚════════════════════════╝
+┏━━❀ *_WELCOME_* *_GEE_* 🙏 ❀───╮
+┃  YOU HAVE SUCCESSFULLY SCANNED YOUR SESSION DEPLOY TO ENJOY IBRAHIM'S COMMANDS
+┃ 
+┃ ⛷️◌· ͟͞꒰➳   𝗧𝗛𝗜𝗦 𝗜𝗦.                       
+     IBRAHIM-TECH
+┃ 
+┃ 👨🏻‍💻◌· ͟͞꒰➳  MADE BY                      
+        IBRAHIM  ADAMS
+┃ 
+┃ ◌· ͟  Owner number : 
+           https://wa.me/message/74F2PC4JA4F3P1
+ [
+┃  💁🏻‍♂️◌· ͟͞꒰➳ ᴊᴏɪɴ my whatsapp group🪀👇🏻
+┃     https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj
+┗━━━━━━━━━━━❀˖°❀˖°❀˖°
 `
 
 
