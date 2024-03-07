@@ -1,5 +1,5 @@
 {
-    "name": "gifted-md-qr",
+    "name": "ibrahim-tech-qr-1.2",
     "version": "0.0.1",
     "description": "A multi functional whatsapp bot Web Qr Scanner.",
     "main": "index.js",
@@ -20,7 +20,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.dev/Giftedmaurice/gifted-md-qr.git"
+        "url": "git+https://github.com/ibrahimaitech/IBRAHIM-AI-10.10.git"
     }
   }
   
