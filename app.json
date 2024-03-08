@@ -2,8 +2,8 @@
     "name": "IBRAHIM-TECH",
     "description": "I am Ibrahim-tech Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t In case of Any Problem : DM https://wa.me/message/74F2PC4JA4F3P1",
     "logo": "https://telegra.ph/file/e3d2edb3167a59ba625d7.jpg",
-    "repository": "https://github.com/Giftedmaurice/gifted-md-qr",
-    "keywords": ["whatsappbot", "giftedMd", "gifted Md bot", "Gifted-Md", "GiftedMdWhatsaooBot", "GiftedWaBot","GiftedMD","Gifted Md Whatsapp Bot","multi device"],
+    "repository": "https://github.com/ibrahimaitech/IBRAHIM-TECH-QR-1.2/tree/main",
+    "keywords": ["whatsappbot", "ibrahimch", "Ibrahim tech bot", "Ibrahim-tech", "IbrahimtechWhatsaooBot", "IbrahimWaBot","Ibrahimtech","Ibrahim Tech Whatsapp Bot","multi device"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
