@@ -18,9 +18,9 @@
 
 ## Deployment Methods
 ---
-1.  ***Click [`FORK`](https://github.com/Giftedmaurice/gifted-md-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
+1.  ***Click [`FORK`](https://github.com/ibrahimaitech/IBRAHIM-TECH-QR-1.2/tree/main) and `Star ⭐ Repository` if you get help from repo.***
 2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/IBRAHIM-TECH-QR-1.2).***
-3.  ***Deploy on [`REPLIT`](https://replit.com/github/Giftedmaurice/gifted-md-qr).***
+3.  ***Deploy on [`REPLIT`](https://replit.com/github/ibrahimaitech/IBRAHIM-TECH-QR-1.2).***
 4. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
 ```
 RENDER PROCESS:
