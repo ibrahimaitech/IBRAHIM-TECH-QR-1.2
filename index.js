@@ -13,21 +13,21 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
-┏━━❀ *_WELCOME_* *_GEE_* 🙏 ❀───╮
-┃  YOU HAVE SUCCESSFULLY SCANNED YOUR SESSION DEPLOY TO ENJOY IBRAHIM'S COMMANDS
-┃ 
-┃ ⛷️◌· ͟͞꒰➳   𝗧𝗛𝗜𝗦 𝗜𝗦.                       
-     IBRAHIM-TECH
-┃ 
-┃ 👨🏻‍💻◌· ͟͞꒰➳  MADE BY                      
-        IBRAHIM  ADAMS
-┃ 
-┃ ◌· ͟  Owner number : 
-           https://wa.me/message/74F2PC4JA4F3P1
- [
-┃  💁🏻‍♂️◌· ͟͞꒰➳ ᴊᴏɪɴ my whatsapp group🪀👇🏻
-┃     https://chat.whatsapp.com/L7T4iMvnfwCA8oLkUIRCFj
-┗━━━━━━━━━━━❀˖°❀˖°❀˖°
+
+*𝑩𝑳𝑨𝑪𝑲 𝑷𝑨𝑵𝑻𝑯𝑬𝑹 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑪𝑶𝑵𝑵𝑬𝑪𝑻𝑬𝑫*
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+*Follow this wachannel for bot updates*
+_https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_
+
+❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
+*For more info tap on the link below*
+_https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO_
+
+_𝑴𝒂𝒅𝒆 𝑩𝒚 𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔_
 `
 
 
